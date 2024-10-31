@@ -43,7 +43,7 @@ function Skills() {
                     <article className='skills_details'>
                         <BsPatchCheckFill className='skills_icon'/>
                         <div className='texts'>
-                            <h4>Bootstrap</h4>
+                            <h4>Redux</h4>
                             <small className='text-light'>Intermediate</small>
                         </div>
                     </article>
@@ -51,7 +51,7 @@ function Skills() {
                         <BsPatchCheckFill className='skills_icon'/>
                         <div className='texts'>
                             <h4>React-Bootstrap</h4>
-                            <small className='text-light'>Intermediate</small>
+                            <small className='text-light'>Experienced</small>
                         </div>
                     </article>
                 </div>
@@ -66,7 +66,7 @@ function Skills() {
                         <BsPatchCheckFill className='skills_icon'/>
                         <div className='texts'>
                             <h4>Node JS</h4>
-                            <small className='text-light'>Intermediate</small>
+                            <small className='text-light'>Experienced</small>
                         </div>
                     </article>
                     <article className='skills_details'>
